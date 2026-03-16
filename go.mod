@@ -64,7 +64,7 @@ require (
 	github.com/go-jose/go-jose/v4 v4.1.0 // indirect; @grafana/identity-access-team
 	github.com/go-kit/log v0.2.1 //  @grafana/grafana-backend-group
 	github.com/go-ldap/ldap/v3 v3.4.4 // @grafana/identity-access-team
-	github.com/go-logfmt/logfmt v0.6.0 // @grafana/oss-big-tent
+	github.com/go-logfmt/logfmt v0.6.1 // @grafana/oss-big-tent
 	github.com/go-openapi/loads v0.22.0 // @grafana/alerting-backend
 	github.com/go-openapi/runtime v0.28.0 // @grafana/alerting-backend
 	github.com/go-openapi/strfmt v0.23.0 // @grafana/alerting-backend
